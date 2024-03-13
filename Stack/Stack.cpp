@@ -173,7 +173,7 @@ int main(){
             break;
         default: 
             cout << "Enter proper option number " << endl;
-
+            break;
 
 
        }
